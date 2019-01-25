@@ -1,0 +1,136 @@
+/*767*/
+.nav-line{
+    position: relative;
+    margin: 0 auto;
+    padding: 40px 20px 0 20px;
+}
+.nav{
+    display: none;
+}
+.logo{
+    float: left;
+    width: 100px;
+    height: 20px;
+    margin-top: -8px;
+}
+.header-image{
+    background-position: 100% 90%;
+}
+.header-claim h1{
+    font-size: 42px;
+}
+.header-claim h3{
+    font-size: 14px;
+}
+.button a{
+    width: 234px;
+    line-height: 50px;
+    font-size: 16px;
+}
+.hidenav{
+    display: block;
+    float: right;
+}
+.services .column-4 .column:nth-child(4n+1),.services .column-4 .column:nth-child(4n+3){
+    padding-right: 2%;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    clear: both;
+}
+.services .column-4 .column:nth-child(4n+4),.services .column-4 .column:nth-child(4n+2){
+    padding-left: 2%;
+    margin-left: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    clear: none;
+}
+.servicesh2{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.servicesh3{
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 15px;
+}
+.services .column-3 svg, .services .column-4 svg {
+    width: 40px;
+    height: 40px;
+}
+.keepout span{
+    line-height: 30px;
+    width: 30%;
+    font-size: 14px;
+}
+.board{
+    width: 30%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.spread-word{
+    padding-top: 45px;
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    color: #fff;
+}
+.spread-title{
+    font-size: 20px;
+}
+.list-detail{
+    padding-top: 30px;
+}
+.detail span{
+    font-size: 14px;
+}
+.detail p{
+    font-size: 10px;
+    font-weight: 100;
+}
+.spread{
+    background-color: #7b7af5;
+}
+.reply{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-top: 5px;
+} 
+.reply img{
+    width: 100%;
+    height: 100%;
+}
+.detail{
+    margin-left: 30px;
+}
+.list-detail ul li{
+    margin-bottom: 10px;
+}
+.spread-images{
+    width: 60%;
+    float: right;
+    margin-top: -40px;
+}
+
+
+.spread2{
+    background-color: #56d090;
+}
+.spread2 .section-inner .spread-images{
+    margin-top: 20px;
+    float: left;
+    width: 50%;
+}
+.spread2 .section-inner .spread-word{
+    float: right;width: 40%;
+}
+
+
+.heatray{
+    width: 140px;
+}
